@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">395310996161-erce6qa3cu8qvj0oqrt84kdtekksgrpd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mergprop.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">395310996161</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOH4SnLXCs8zA82_ydh08TIw94xk94XzU</string>
+    <string name="google_app_id" translatable="false">1:395310996161:android:fb90a4ab0ac6b2177b1240</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOH4SnLXCs8zA82_ydh08TIw94xk94XzU</string>
+    <string name="google_storage_bucket" translatable="false">mergprop.appspot.com</string>
+    <string name="project_id" translatable="false">mergprop</string>
+</resources>

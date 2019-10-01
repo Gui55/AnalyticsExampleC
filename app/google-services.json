@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395310996161",
+    "firebase_url": "https://mergprop.firebaseio.com",
+    "project_id": "mergprop",
+    "storage_bucket": "mergprop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395310996161:android:fb90a4ab0ac6b2177b1240",
+        "android_client_info": {
+          "package_name": "com.example.analyticsexamplec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395310996161-erce6qa3cu8qvj0oqrt84kdtekksgrpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOH4SnLXCs8zA82_ydh08TIw94xk94XzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395310996161-erce6qa3cu8qvj0oqrt84kdtekksgrpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
